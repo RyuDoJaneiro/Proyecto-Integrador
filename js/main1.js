@@ -1,4 +1,4 @@
-/*  Syntax:hola como estas
+/*  Syntax:elena
 
  *   oName = OBJECTS
  *   aName = ARRAY
