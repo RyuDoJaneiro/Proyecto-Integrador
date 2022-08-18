@@ -1,4 +1,4 @@
-/*  Syntax:elena
+/*  Syntax: toto hola
 
  *   oName = OBJECTS
  *   aName = ARRAY
