@@ -1,4 +1,5 @@
-/*  Syntax:
+/*  Syntax:hola como estas
+
  *   oName = OBJECTS
  *   aName = ARRAY
  *   functionName = FUNCTION
