@@ -1,0 +1,42 @@
+#table-info{
+    /*background: rgb(133,187,101);
+    background: linear-gradient(circle, rgba(133,187,101,1) 0%, rgba(133,187,101,1) 35%, rgba(73,102,55,1) 100%); ;*/
+    background-color: rgba(254,222,59, 0.5);
+    
+}
+#dolar-oficial-estilo{
+    background: rgb(254,222,59);
+    background: radial-gradient(circle, rgba(254,222,59,1) 0%, rgba(254,222,59,1) 35%, rgba(254,183,59,1) 100%); 
+}
+
+#dolar-blue{
+  /*  background: rgb(18,94,226);
+    background: radial-gradient(circle, rgba(18,94,226,0.9456115209755778) 0%, rgba(15,76,184,0.9708216050091911) 35%, rgba(8,41,99,0.9372081596310399) 100%);  */
+    background: rgb(254,222,59);
+    background: radial-gradient(circle, rgba(254,222,59,1) 0%, rgba(254,222,59,1) 35%, rgba(254,183,59,1) 100%); 
+}
+#dolar-blue-compra{
+   /* background-color: blueviolet;*/
+}
+#dolar-blue-venta{
+   /* background-color: brown;*/
+}
+#contado-con-liqui-dolar{
+    background: rgb(254,222,59);
+    background: radial-gradient(circle, rgba(254,222,59,1) 0%, rgba(254,222,59,1) 35%, rgba(254,183,59,1) 100%); 
+}
+#dolar-bolsa{
+    background: rgb(254,222,59);
+    background: radial-gradient(circle, rgba(254,222,59,1) 0%, rgba(254,222,59,1) 35%, rgba(254,183,59,1) 100%); 
+}
+
+#dolar-estilo{
+    background: rgb(254,222,59);
+    background: radial-gradient(circle, rgba(254,222,59,1) 0%, rgba(254,222,59,1) 35%, rgba(254,183,59,1) 100%); 
+}
+#tabla-compra{
+    background-color: #BCC6CC ;
+}
+#tabla-venta{
+    background-color: #BCC6CC;
+}
