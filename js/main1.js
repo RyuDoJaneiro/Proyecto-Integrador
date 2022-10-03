@@ -1,4 +1,5 @@
-/*  Syntax:
+/*  Syntax: toto hola
+
  *   oName = OBJECTS
  *   aName = ARRAY
  *   functionName = FUNCTION
